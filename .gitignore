@@ -1,0 +1,13 @@
+.sf/
+.sfdx/
+.localdevserver/
+*.org
+*.auth
+*.log
+coverage/
+node_modules/
+.npm/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
